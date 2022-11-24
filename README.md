@@ -1,2 +1,2 @@
-# IAC-Docker
-Terraform with Docker
+# IAC
+Terraform
